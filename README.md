@@ -25,10 +25,11 @@ Hiya 👋 I'm Dáre
 
 <br/> <img alt="Excel" src="https://img.shields.io/badge/Office-Microsoft Excel-%231D6F42">
 <br/> <img alt="MySQL" src="https://img.shields.io/badge/Database-MySQL-%23F29111">
+<br/> <img alt="Salesforce" src="https://img.shields.io/badge/Database-Salesforce-%231798c1">
 <br/> <img alt="Tableau" src="https://img.shields.io/badge/Analytics-Tableau-%232FBEBE">
-<br/> <img alt="Python" src="https://img.shields.io/badge/Languages-Python-%234B8BBE">
-<br/> <img alt="HTML5" src="https://img.shields.io/badge/Languages-HTML5-%23e34c26">
-<br/> <img alt="CSS" src="https://img.shields.io/badge/Languages-CSS-%23264de4">
+<br/> <img alt="Python" src="https://img.shields.io/badge/Language-Python-%234B8BBE">
+<br/> <img alt="HTML5" src="https://img.shields.io/badge/Language-HTML5-%23e34c26">
+<br/> <img alt="CSS" src="https://img.shields.io/badge/Language-CSS-%23264de4">
 <br/> <img alt="Jupyter" src="https://img.shields.io/badge/Framework-Jupyter-%23ce5c00">
 <br/> <img alt="Flask" src="https://img.shields.io/badge/Framework-Flask-%23ff0000">
 <br/> <img alt="PowerBI" src="https://img.shields.io/badge/Framework-PowerBI-yellow">
@@ -40,11 +41,13 @@ Hiya 👋 I'm Dáre
   
   <summary>📃 Experience </summary>
 
+<img align="right" src="https://img.shields.io/badge/FormAssembly-0F3751?logo=FormAssembly&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Salesforce-1798c1?logo=salesforce&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
   
 - 👨‍💻 **Data Collection and Data Engineering**\
 📆 Aug-Oct 2020\
-📍 *Automation and Integration of FormAssembly survey responses with Salesforce filtering into reports and dashboards*
+📍 *Configuration of FormAssembly surveys with automated filtering into Salesforce reports and dashboards*
 
   <br/> 
   
