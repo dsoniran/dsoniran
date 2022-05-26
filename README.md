@@ -41,9 +41,9 @@ Hiya 👋 I'm Dáre
     Data Scientist :bar_chart: :chart_with_upwards_trend:
   </h3>
 
-- 🌱 I’m currently learning: Supervised machine learning
-- 👯 I’m looking to collaborate on: any innovative project :)
-- ⚡ Fun fact: I'm a writer as a hobby
+- 🌱 I’m currently learning supervised machine learning
+- 👯 I’m looking to collaborate on any ML project, all about upskilling
+- ⚡ Fun fact: I'm a career switcher!
 
 <!-- <details> -->
   
@@ -62,9 +62,7 @@ Hiya 👋 I'm Dáre
 <br/> <img alt="Google CLoud" src="https://img.shields.io/badge/Cloud-Google Cloud-%234285F4">
 <br/> <img alt="Pycharm" src="https://img.shields.io/badge/IDE-Pycharm-%23000000"> -->
 
-<br/>
-
-<img align="left" alt="Python" width="20px" src="http://simpleicons.org/icons/python.svg" />
+<br/><img align="left" alt="Python" width="20px" src="http://simpleicons.org/icons/python.svg" />
 <img align="left" alt="TF" width="20px" src="http://simpleicons.org/icons/tensorflow.svg" />
 <img align="left" alt="Keras" width="20px" src="http://simpleicons.org/icons/keras.svg" />
 <img align="left" alt="VSCode" width="20px" src="http://simpleicons.org/icons/visualstudiocode.svg" />
