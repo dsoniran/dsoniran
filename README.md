@@ -1,29 +1,55 @@
-<h1 align='center'>
+<!--
+**dsoniran/dsoniran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+<h1 align='left'>
 Hiya 👋 I'm Dáre
 </h1>
 
-<p align='center'>
-    Operations Specialist :office: :pencil2: and Data Analyst :bar_chart: :chart_with_upwards_trend: ethusiast
-  </p>
+ <p align='left'>
+
+[<img align="left" alt="gennsev.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Kaggle" width="22px" src="http://simpleicons.org/icons/kaggle.svg" />][kaggle]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[website]: https://dsoniran.netlify.app
+[twitter]: https://twitter.com/darewithdata
+[kaggle]: https://www.kaggle.com/dsoni
+[linkedin]: https://www.linkedin.com/in/dsoniran/
+  
+ </p>
  
- <p align='center'>
-  
-  <a href="https://www.linkedin.com/in/dsoniran/">
-  <img src="https://img.shields.io/badge/dsoniran-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/DareSheSaidIt?style=social">
-
-</p>
-  
-  
-<p align='center'>
+<!-- <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=dsoniran&show_icons=true&count_private=true&theme=radical" width="350"></a>
-</p>
+</p> -->
 
-<details>
+<br/>
+
+<h3 align='left'>
+    Data Scientist :bar_chart: :chart_with_upwards_trend:
+  </h3>
+
+- 🌱 I’m currently learning: Supervised machine learning
+- 👯 I’m looking to collaborate on: any innovative project :)
+- ⚡ Fun fact: I'm a writer as a hobby
+
+<!-- <details> -->
   
   <summary> Languages & Tools 🛠 </summary>
 
-<br/> <img alt="Excel" src="https://img.shields.io/badge/Office-Microsoft Excel-%231D6F42">
+<!-- <br/> <img alt="Excel" src="https://img.shields.io/badge/Office-Microsoft Excel-%231D6F42">
 <br/> <img alt="MySQL" src="https://img.shields.io/badge/Database-MySQL-%23F29111">
 <br/> <img alt="Salesforce" src="https://img.shields.io/badge/Database-Salesforce-%231798c1">
 <br/> <img alt="Tableau" src="https://img.shields.io/badge/Analytics-Tableau-%232FBEBE">
@@ -34,10 +60,24 @@ Hiya 👋 I'm Dáre
 <br/> <img alt="Flask" src="https://img.shields.io/badge/Framework-Flask-%23ff0000">
 <br/> <img alt="PowerBI" src="https://img.shields.io/badge/Framework-PowerBI-yellow">
 <br/> <img alt="Google CLoud" src="https://img.shields.io/badge/Cloud-Google Cloud-%234285F4">
-<br/> <img alt="Pycharm" src="https://img.shields.io/badge/IDE-Pycharm-%23000000">
-</details>
+<br/> <img alt="Pycharm" src="https://img.shields.io/badge/IDE-Pycharm-%23000000"> -->
 
-<details>
+<br/>
+
+<img align="left" alt="Python" width="20px" src="http://simpleicons.org/icons/python.svg" />
+<img align="left" alt="TF" width="20px" src="http://simpleicons.org/icons/tensorflow.svg" />
+<img align="left" alt="Keras" width="20px" src="http://simpleicons.org/icons/keras.svg" />
+<img align="left" alt="VSCode" width="20px" src="http://simpleicons.org/icons/visualstudiocode.svg" />
+<img align="left" alt="Atom" width="20px" src="http://simpleicons.org/icons/atom.svg" />
+<img align="left" alt="Jupyter" width="20px" src="http://simpleicons.org/icons/jupyter.svg" />
+<img align="left" alt="Git" width="20px" src="http://simpleicons.org/icons/git.svg" />
+<img align="left" alt="Docker" width="20px" src="http://simpleicons.org/icons/docker.svg" />
+<img align="left" alt="HUGO" width="20px" src="http://simpleicons.org/icons/hugo.svg" />
+<img align="left" alt="Netlify" width="20px" src="http://simpleicons.org/icons/netlify.svg" />
+
+<!-- </details> -->
+
+<!-- <details>
   
   <summary>📃 Experience </summary>
 
@@ -79,21 +119,8 @@ Hiya 👋 I'm Dáre
 📆 In progress\
 📍 *Strategic development of fundraising pipeline*
 
-</details>
-<!--
-**dsoniran/dsoniran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</details> -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <!-- RESOURCES
 
