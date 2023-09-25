@@ -26,7 +26,7 @@ Hiya 👋 I'm Dáre
 
 [website]: https://dsoniran.netlify.app
 [twitter]: https://twitter.com/darewithdata
-[kaggle]: https://www.kaggle.com/dsoni
+[kaggle]: https://www.kaggle.com/dsoni28
 [linkedin]: https://www.linkedin.com/in/dsoniran/
   
  </p>
